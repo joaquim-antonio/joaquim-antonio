@@ -325,5 +325,26 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </table>
 </div>
 
+<!--quotes-->
+<div align="center">
+ <table>
+  <tr>
+   <td align="center" colspan="1"></td>
+  </tr>
+  <tr>
+   <td>
+   <img alt="Quotes" height="180px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center" colspan="1"></td>
+  </tr> 
+ </table>
+</div>
+
+<!--footer-->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+
+
 
 
