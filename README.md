@@ -248,7 +248,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div align="center">
 <table>
 <tr>
-<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a</td>
+<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
 </tr>
 <tr>
 <td>
