@@ -175,4 +175,95 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 &nbsp;
 </div>
 
------
+<!--livros -->
+
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/writing.svg?raw=true"/>&nbsp;Artigos que publiquei:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="5"></td>
+</tr> 
+<tr>
+<td>
+<a href="https://revista.ibict.br/ciinf/article/view/4407" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/ci.jpg?raw=true"/></a>
+</td>
+<td>
+<a href="https://revistas.ufpr.br/atoz/article/view/64640" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/atoz.png?raw=true"/></a>
+</td>
+<td>
+<a href="https://periodicos.cefetmg.br/index.php/revista-et/article/view/768" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/edtech.jpg?raw=true"/></a>
+</td>
+<td>
+<a href="https://periodicos.ufpb.br/index.php/mpgoa/article/view/43707/30214" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/gestaoeaprendizagem.jpg?raw=true"/></a>
+</td>
+<td>
+<a href="https://periodicos.ufpb.br/ojs2/index.php/actas/article/view/43701" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/acta.png?raw=true"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="5"></td>
+</tr> 
+</table>
+
+<table>
+<tr>
+ <td align="center" colspan="5"></td>
+</tr> 
+<tr>
+<td>
+<a href="https://www.revistas.usp.br/gestaodeprojetos/article/view/105650" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/gtp.jpg?raw=true"/></a>
+</td>
+<td>
+<a href="https://rsdjournal.org/index.php/rsd/article/view/1979" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/rsd.jpg?raw=true"/></a>
+</td>
+<td>
+<a href="https://www.cefet-rj.br/attachments/article/195/revista36_ago-dez2020_compressed.pdf" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/techcultura.jpg?raw=true"/></a>
+</td>
+<td>
+<a href="https://sou.ucs.br/etc/revistas/index.php/conexao/article/view/7781" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/conexao.png?raw=true"/></a>
+</td>
+<td>
+<!--
+<a href="https://www.fumec.br/revistas/sigc/article/view/2550" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/cod31.jpg?raw=true"/></a>
+-->
+<a href="https://repositorio.fumec.br/handle/123456789/2/discover?query=Aramuni" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/cod31.jpg?raw=true"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="5"></td>
+</tr> 
+</table>
+
+</div>
+
+<!--github stats-->
+
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
+
+<div align="center">
+<table>
+<tr>
+<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a</td>
+</tr>
+<tr>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3"></td>
+</tr> 
+</table>
+
+
