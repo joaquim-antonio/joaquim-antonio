@@ -279,7 +279,23 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
 </td>
 </tr>
+<tr>
+<td align="center" colspan="3"></td>
+</tr>
+<!-- snakegame-->
+<table>
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr> 
+</table>
 </div>
 </div>
+
 
 
