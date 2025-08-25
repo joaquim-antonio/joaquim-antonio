@@ -316,7 +316,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cg34nkk6c3vgi25pfo4dzhmhci&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </td>
 <td>
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31cg34nkk6c3vgi25pfo4dzhmhci&count=10"/>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31cg34nkk6c3vgi25pfo4dzhmhci"/>
 </td>
 </tr>
 <tr>
