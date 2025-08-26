@@ -183,7 +183,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <!--livros -->
 
 <div>
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/writing.svg?raw=true"/>&nbsp;Leituras recentes:
+<p>📖 Leituras recentes: </p>
 <div align="center">
 <table>
 <tr>
@@ -220,16 +220,16 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img width="150" height="200" src="img/learningJava.jpg"/>
 </td>
 <td>
-<img width="150" height="200" src="https://joaopauloaramuni.github.io/image/rsd.jpg?raw=true"/>
+<img width="150" height="200" src="img/learningSQL.jpg"/>
 </td>
 <td>
-<a href="https://www.cefet-rj.br/attachments/article/195/revista36_ago-dez2020_compressed.pdf" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/techcultura.jpg?raw=true"/></a>
+<img width="150" height="200" src="img/padroes-de-projeto-gamma.jpg"/>
 </td>
 <td>
-<a href="https://sou.ucs.br/etc/revistas/index.php/conexao/article/view/7781" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/conexao.png?raw=true"/></a>
+<img width="150" height="200" src="img/sistemas-digitais-capuano.jpg"/>
 </td>
 <td>
-<a href="https://repositorio.fumec.br/handle/123456789/2/discover?query=Aramuni" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/cod31.jpg?raw=true"/></a>
+<img width="150" height="200" src="img/db-elmasri.jpg"/>
 </td>
 </tr>
 <tr>
