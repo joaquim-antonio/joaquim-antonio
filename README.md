@@ -231,9 +231,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://sou.ucs.br/etc/revistas/index.php/conexao/article/view/7781" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/conexao.png?raw=true"/></a>
 </td>
 <td>
-<!--
-<a href="https://www.fumec.br/revistas/sigc/article/view/2550" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/cod31.jpg?raw=true"/></a>
--->
 <a href="https://repositorio.fumec.br/handle/123456789/2/discover?query=Aramuni" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/cod31.jpg?raw=true"/></a>
 </td>
 </tr>
@@ -288,18 +285,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <td align="center" colspan="3"></td>
 </tr>
 
-<table>
-<tr>
-<td align="center"></td>
-</tr>
-<tr> 
-<!--snakegame<td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>-->
-<td align="center"><img align="center" alt="github-user-contribution" src="https://pacman.abozanona.me?username=joaquim-antonio"/></td>
-</tr>
-<tr>
-<td align="center"></td>
-</tr> 
-</table>
+<!--interative contibution-->
+<div align="center">
+<img align="center" alt="github-user-contribution" src="https://pacman.abozanona.me?username=joaquim-antonio"/>
+</div>
 </div>
 </div>
  
@@ -311,7 +300,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31cg34nkk6c3vgi25pfo4dzhmhci" alt="Data Card for Spotify">
 </details>
 </div>
-
 <div align="center">
 <table>
 <tr>
