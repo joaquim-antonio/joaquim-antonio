@@ -217,7 +217,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 <tr>
 <td>
-<img width="150" height="200" src="img/leraningJava.jpg"/>
+<img width="150" height="200" src="img/learningJava.jpg"/>
 </td>
 <td>
 <img width="150" height="200" src="https://joaopauloaramuni.github.io/image/rsd.jpg?raw=true"/>
