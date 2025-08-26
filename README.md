@@ -318,7 +318,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </table>
 </div>
 
-<!--quotes-->
+<!--quotes
 <div align="center">
  <table>
   <tr>
@@ -334,7 +334,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
   </tr> 
  </table>
 </div>
-
+-->
 <!--footer-->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17f77d&height=120&section=footer"/>
