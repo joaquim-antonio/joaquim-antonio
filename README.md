@@ -294,7 +294,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 <tr> 
 <!--snakegame<td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>-->
-<img src="https://pacman.abozanona.me?username=joaquim-antonio"/>
+<td align="center"><img align="center" alt="github-user-contribution" src="https://pacman.abozanona.me?username=joaquim-antonio"/></td>
 </tr>
 <tr>
 <td align="center"></td>
