@@ -287,13 +287,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <tr>
 <td align="center" colspan="3"></td>
 </tr>
-<!-- snakegame
+
 <table>
 <tr>
 <td align="center"></td>
 </tr>
 <tr> 
-<td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
+<!--snakegame<td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>-->
+<img src="https://pacman.abozanona.me?username=joaquim-antonio"/>
 </tr>
 <tr>
 <td align="center"></td>
@@ -301,9 +302,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </table>
 </div>
 </div>
--->
- <!--pacman game-->
-<img src="https://pacman.abozanona.me?username=joaquim-antonio"/>
  
 <!-- SPOTIFY -->
 <!--api 1-->
