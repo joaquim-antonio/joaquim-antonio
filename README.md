@@ -1,6 +1,6 @@
 <!-- cabeçalho -->
 <div>
-<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png?raw=true"/>
+<img align="center" alt="Header" src="img/github-header-banner.png"/>
 </div>
 
 <!-- contatos + sobre mim -->
