@@ -284,6 +284,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <tr>
 <td align="center" colspan="3"></td>
 </tr>
+</table>
 
 <!--interative contibution-->
 <div align="center">
