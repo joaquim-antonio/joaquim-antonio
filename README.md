@@ -11,39 +11,6 @@
 </div>
 &nbsp;&nbsp;&nbsp;
 
-<div align="center"> 
- <a href = "mailto:joaquim.antonio.camargos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/aquelejoquii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaquim-antonio-714300373/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-## ⏱ My metrics:
-<!--github stats-->
-<div align="center">
-<table>
-<tr>
-<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@joaquim_antonio">WakaTime</a></td>
-</tr>
-<tr>
-<td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaquim_antonio&theme=dark&layout=compact"/>
-</td>
-<td>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joaquim-antonio&theme=transparent" alt="GitHub Streak" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2"></td>
-</tr>
-</table>
-<!-- pacman contibution
-<div align="center">
-<img align="center" alt="pacman-contribution-api" src="https://pacman.abozanona.me?username=joaquim-antonio"/>
-</div>
--->
-</div>
-</div>
-
 ## 🖥My skills: 
 <!-- linguagens e frameworks -->
 #### Languages:
@@ -107,6 +74,32 @@
 &nbsp;
 &nbsp;
 
+## ⏱ My metrics:
+<!--github stats-->
+<div align="center">
+<table>
+<tr>
+<td align="center" colspan="2">:⌚<a href="https://wakatime.com/@joaquim_antonio">WakaTime</a></td>
+</tr>
+<tr>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaquim_antonio&theme=dark&layout=compact"/>
+</td>
+<td>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joaquim-antonio&theme=transparent" alt="GitHub Streak" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2"></td>
+</tr>
+</table>
+<!-- pacman contibutionf
+<div align="center">
+<img align="center" alt="pacman-contribution-api" src="https://pacman.abozanona.me?username=joaquim-antonio"/>
+</div>
+-->
+</div>
+</div>
 <!-- interesses pessoais -->
 ## Mais sobre mim:
 <div>
@@ -285,4 +278,4 @@
 -->
 <!--footer-->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17f77d&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17f77d&height=120&section=footer"/>
