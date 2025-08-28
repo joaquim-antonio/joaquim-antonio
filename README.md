@@ -108,8 +108,8 @@
 &nbsp;
 
 <!-- interesses pessoais -->
+## Mais sobre mim:
 <div>
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
 <table>
 <tr>
  <td align="center" colspan="2"></td>
