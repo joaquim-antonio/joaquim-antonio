@@ -1,8 +1,8 @@
 <!-- cabeçalho -->
-<div>
-<img align="center" alt="Header" src="img/github-header-banner.png"/>
-&nbsp;&nbsp;&nbsp;
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17F77D&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17F77D&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Joaquim+Antonio;Welcome+to+my+github+perfil;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
+
 
 <!--breve descrição-->
 <div align="justify">
