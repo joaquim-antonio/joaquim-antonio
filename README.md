@@ -113,7 +113,7 @@
 &nbsp;
 &nbsp;
 
-## ☎ Entre em contato comigo: 
+## ☎ Contact me: 
 <!--contatos-->
 <div align="center">
 <table>
@@ -189,7 +189,7 @@
 
 
 <!--livros -->
-## 📖 Leituras recentes:
+## 📖 Recent readings:
 <div align="center">
 <table>
 <tr>
