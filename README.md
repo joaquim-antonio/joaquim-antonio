@@ -22,33 +22,20 @@
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaquim_antonio&theme=dark&layout=compact"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquim-antonio&layout=pie&theme=dark&locale=pt-br"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joaquim-antonio&theme=transparent" alt="GitHub Streak" /></a>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2"></td>
 </tr>
 </table>
-<table>
-<tr>
- <td align="center" colspan="1"></td>
-</tr>
-<tr>
-<td>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joaquim-antonio&theme=transparent" alt="GitHub Streak" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="1"></td>
-</tr>
-</table>
 <!-- pacman contibution
 <div align="center">
 <img align="center" alt="pacman-contribution-api" src="https://pacman.abozanona.me?username=joaquim-antonio"/>
 </div>
-</div>
-</div>
 -->
+</div>
+</div>
 
 ## 🖥My skills: 
 <!-- linguagens e frameworks -->
@@ -113,32 +100,6 @@
 &nbsp;
 &nbsp;
 
-## ☎ Contact me: 
-<!--contatos-->
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/joaquim-antonio" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="mailto:joaquim.antonio.camargos@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://wa.me/5533998640504" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/aquelejoquii/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/joaquim-antonio-714300373/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr>
-</table>
-</div>
 <!-- interesses pessoais -->
 <div>
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
@@ -187,6 +148,32 @@
 </table>
 </div>
 
+## ☎ Contact me: 
+<!--contatos-->
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/joaquim-antonio" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:joaquim.antonio.camargos@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5533998640504" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.instagram.com/aquelejoquii/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/joaquim-antonio-714300373/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr>
+</table>
+</div>
 
 <!--livros -->
 ## 📖 Recent readings:
