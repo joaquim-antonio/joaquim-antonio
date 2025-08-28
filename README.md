@@ -35,20 +35,20 @@
 </tr>
 <tr>
 <td>
-<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=joaquim-antonio&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joaquim-antonio&theme=transparent" alt="GitHub Streak" /></a>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="1"></td>
 </tr>
 </table>
-<!--interative contibution-->
+<!-- pacman contibution
 <div align="center">
 <img align="center" alt="pacman-contribution-api" src="https://pacman.abozanona.me?username=joaquim-antonio"/>
 </div>
 </div>
 </div>
-
+-->
 
 ## 🖥My skills: 
 <!-- linguagens e frameworks -->
@@ -245,8 +245,7 @@
 </div>
  
 <hr>
-<!-- SPOTIFY -->
-<!--api 1-->
+<!-- SPOTIFY 
 <div>
 <details>
 <summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/>Joaquim's Spotify Data</summary>
@@ -271,6 +270,7 @@
 </tr>
 </table>
 </div>
+-->
 
 <!--quotes
 <div align="center">
