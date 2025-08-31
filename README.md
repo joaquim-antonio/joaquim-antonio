@@ -13,21 +13,20 @@ Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica 
 
 ## 🖥My skills: 
 <!-- linguagens e frameworks -->
-#### Languages:
-<p align="left">
+### Languages:
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,css,html,js,py,c,cpp&perline=6"/>    
 </p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador"/>
 
-#### Frameworks and Libraries:
-<p align="left">
+### Frameworks and Libraries:
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring,react,bootstrap" />
 </p>
 
-<!--#### Banco de Dados:-->
+<!--### Banco de Dados:-->
 
-#### Plataforms, Tools and IDEs:
-<p align="left">
+### Plataforms, Tools and IDEs:
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,vscode,clion,pycharm,figma,eclipse,idea,windows&perline=6" />
 </p>
 
