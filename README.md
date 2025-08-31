@@ -12,7 +12,6 @@ Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica 
 </p>
 
 ## 🖥My technical skills
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador"/>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,css,html,js,py,c,cpp,spring,react,bootstrap,git,vscode,clion,pycharm,figma,eclipse,idea,windows">
 </p>
