@@ -3,76 +3,34 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17F77D&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Joaquim+Antonio;Welcome+to+my+github+perfil;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
-
 <!--breve descrição-->
-<div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 34 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:
-&nbsp;&nbsp;&nbsp;
-</div>
-&nbsp;&nbsp;&nbsp;
+<p align="center">
+Graduando em Engenharia de Software
+</p>
+<p align="justify">
+Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica e prática em desenvolvimento de sistemas com foco em eficiência, sustentabilidade e escalabilidade. Apaixonado por tecnologia, estou sempre em busca de novos desafios e aprendizados no universo da programação.
+</p>
 
 ## 🖥My skills: 
 <!-- linguagens e frameworks -->
 #### Languages:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="50" height="50" alt="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50" height="50" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" alt="C" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
-  &nbsp;
-      
+<img src="https://skillicons.dev/icons?i=java,css,html,js,py,c,cpp"/>    
 </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Frameworks and Libraries:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
-   &nbsp;
-
-<!--#### Banco de Dados:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="50" height="50" alt="Azure" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="50" height="50" alt="Redis"/>
-</p>
--->
-
-#### Tools and IDEs:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="50" height="50" alt="Clion" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="pycharm" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse" />
-  &nbsp;
+<img src="https://skillicons.dev/icons?i=spring,react,bootstrap" />
 </p>
 
-&nbsp;
-&nbsp;
+<!--#### Banco de Dados:-->
+
+#### Plataforms, Tools and IDEs:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,vscode,clion,pycharm,figma,eclipse,idea,windows" />
+</p>
 
 ## ⏱ My metrics:
 <!--github stats-->
