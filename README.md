@@ -11,13 +11,14 @@ Graduando em Engenharia de Software
 Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica e prática em desenvolvimento de sistemas com foco em eficiência, sustentabilidade e escalabilidade. Apaixonado por tecnologia, estou sempre em busca de novos desafios e aprendizados no universo da programação.
 </p>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
 ## 🖥My skills: 
 <!-- linguagens e frameworks -->
 #### Languages:
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,css,html,js,py,c,cpp"/>    
 </p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 #### Frameworks and Libraries:
 <p align="left">
