@@ -11,24 +11,14 @@ Graduando em Engenharia de Software
 Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica e prática em desenvolvimento de sistemas com foco em eficiência, sustentabilidade e escalabilidade. Apaixonado por tecnologia, estou sempre em busca de novos desafios e aprendizados no universo da programação.
 </p>
 
-## 🖥My skills: 
+## 🖥My technical skills: 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,css,html,js,py,c,cpp,spring,react,bootstrap,git,vscode,clion,pycharm,figma,eclipse,idea,windows">    
+</p>
+<!--### Frameworks and Libraries:-->
 <!-- linguagens e frameworks -->
-### Languages:
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,css,html,js,py,c,cpp&perline=6"/>    
-</p>
-
-### Frameworks and Libraries:
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,react,bootstrap" />
-</p>
-
 <!--### Banco de Dados:-->
-
-### Plataforms, Tools and IDEs:
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,vscode,clion,pycharm,figma,eclipse,idea,windows&perline=6" />
-</p>
+<!--### Plataforms, Tools and IDEs:-->
 
 ## ⏱ My metrics:
 <!--github stats-->
