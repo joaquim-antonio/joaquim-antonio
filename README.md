@@ -38,6 +38,11 @@ Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica 
 <tr>
 <td align="center" colspan="2"></td>
 </tr>
+ <tr>
+ <p align="left">
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaquim-antonio&color=blueviolet"/>
+</p>
+ </tr>
 </table>
 <!-- pacman contibutionf
 <div align="center">
@@ -48,7 +53,7 @@ Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica 
 </div>
 
 <!-- interesses pessoais -->
-### 🚀 Sobre Mim
+## 🚀 Sobre Mim
 - 💻Atuação em projetos full stack, com domínio em Java, JavaScript, C/C++ e frameworks como Spring Boot, Node.js e React.js.
 - 🔧 Experiência em desenvolvimento de APIs REST, integração com bancos de dados SQL e boas práticas de versionamento com Git.
 - 💡 Interessado em projetos que trazem impacto real e resolvem problemas do cotidiano.
