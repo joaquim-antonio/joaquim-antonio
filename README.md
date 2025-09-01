@@ -39,7 +39,7 @@ Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica 
 <td align="center" colspan="2"></td>
 </tr>
  <tr>
- <p align="left">
+ <p align="center">
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaquim-antonio&color=blueviolet"/>
 </p>
  </tr>
