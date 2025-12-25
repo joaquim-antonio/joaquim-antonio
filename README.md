@@ -13,7 +13,7 @@ Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica 
 
 ## 🖥 Tecnologias
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,css,html,js,py,c,cpp,spring,react,bootstrap,git,vscode,clion,pycharm,figma,eclipse,idea,windows">
+<img src="https://skillicons.dev/icons?i=java,css,html,js,py,c,cpp,spring,react,bootstrap,git,vscode,clion,pycharm,figma,eclipse,idea,windows,linux,maven,mysql,postman,jquery,github">
 </p>
 <!--### Frameworks and Libraries:-->
 <!-- linguagens e frameworks -->
@@ -76,7 +76,7 @@ Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica 
 </td>
 <td><a href="https://www.instagram.com/aquelejoquii/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/joaquim-antonio-714300373/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="www.linkedin.com/in/joaquim-antonio-dev" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
