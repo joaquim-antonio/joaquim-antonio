@@ -32,7 +32,7 @@ Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica 
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaquim_antonio&theme=dark&layout=compact"/>
 </td>
 <td>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joaquim-antonio&theme=transparent" alt="GitHub Streak" /></a>
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=joaquim-antonio&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,6 @@ Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica 
 <td align="left" colspan="2">
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaquim-antonio&color=blueviolet"/>
 </td>
-</p>
  </tr>
 </table>
 <!-- pacman contibutionf
