@@ -29,7 +29,7 @@ Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica 
 </tr>
 <tr>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaquim_antonio&theme=dark&layout=compact"/>
+<img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaquim-antonio&theme=dark"/>
 </td>
 <td>
 <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=joaquim-antonio&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
