@@ -68,7 +68,7 @@ Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica 
  <td align="center" colspan="11"></td>
 </tr>
 <tr>
-<td><a href="https://github.com/joaquim-antonio" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/joaquim-antonio" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/github4.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:joaquim.antonio.camargos@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
