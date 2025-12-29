@@ -5,10 +5,10 @@
 
 <!--breve descrição-->
 <p align="center">
-Graduando em Engenharia de Software
+Engenheiro de Software
 </p>
 <p align="justify">
-Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica e prática em desenvolvimento de sistemas com foco em eficiência, sustentabilidade e escalabilidade. Apaixonado por tecnologia, estou sempre em busca de novos desafios e aprendizados no universo da programação.
+Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento de soluções que resolvem problemas reais e geram valor para clientes. Interesse em transformar necessidades do mundo real em sistemas eficientes, escaláveis e bem estruturados, aplicando boas práticas de engenharia e programação.
 </p>
 
 ## 🖥 Tecnologias
