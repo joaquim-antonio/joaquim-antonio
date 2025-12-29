@@ -32,7 +32,7 @@ Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento 
 <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaquim-antonio&theme=dark"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaquim-antonio&theme=github_dark"/>
+<img alt="GitHub Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaquim-antonio&theme=github_dark"/>
 </td>
 </tr>
 <tr>
