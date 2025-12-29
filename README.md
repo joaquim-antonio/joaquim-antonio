@@ -32,7 +32,7 @@ Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento 
 <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaquim-antonio&theme=dark"/>
 </td>
 <td>
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=joaquim-antonio&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaquim-antonio&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </td>
 </tr>
 <tr>
