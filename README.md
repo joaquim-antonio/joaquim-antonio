@@ -54,7 +54,7 @@ Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento 
 
 <!-- interesses pessoais -->
 ## 🚀 Sobre Mim
-- 💻Atuação em projetos full stack, com domínio em Java, JavaScript, C/C++ e frameworks como Spring Boot, Node.js e React.js.
+- 💻Atuação em projetos full stack, com domínio em Java, JavaScript, C/C++ e frameworks como Spring Boot e React.js.
 - 🔧 Experiência em desenvolvimento de APIs REST, integração com bancos de dados SQL e boas práticas de versionamento com Git.
 - 💡 Interessado em projetos que trazem impacto real e resolvem problemas do cotidiano.
 - 🌱  Em constante aprendizado e evolução, buscando aplicar soluções tecnológicas a problemas reais e complexos.
