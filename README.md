@@ -27,7 +27,7 @@ Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento 
 <tr>
 <td align="center" colspan="2">⌚<a href="https://wakatime.com/@joaquim_antonio">WakaTime</a></td>
 </tr>
-<tr> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<tr> 
 <td>
 <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaquim-antonio&theme=dark"/>
 </td>
@@ -35,7 +35,7 @@ Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento 
  <!--
 <img alt="GitHub Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaquim-antonio&theme=github_dark"/>
  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquim-antonio&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/cards/most-commit-language?username=joaquim-antonio&theme=github_dark" alt="Most Commit Language" />
 </td>
 </tr>
 <tr>
