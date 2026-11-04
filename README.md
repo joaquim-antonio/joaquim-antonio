@@ -13,7 +13,7 @@ Graduando em Engenharia de Software pela PUC Minas, com foco no desenvolvimento 
 
 ## 🖥 Tecnologias
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,css,html,js,py,c,cpp,spring,react,bootstrap,git,vscode,clion,pycharm,figma,eclipse,idea,windows,linux,maven,mysql,postman,jquery,github">
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,py,django,c,git,linux,maven,mysql,postgres,sqlite,docker,redis,">
 </p>
 <!--### Frameworks and Libraries:-->
 <!-- linguagens e frameworks -->
