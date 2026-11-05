@@ -20,9 +20,9 @@
   <a href="mailto:joaquim.antonio.camargos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=FFFFFF" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/joaquim-antonio-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/joaquim-antonio-dev/">
+  <img src="https://img.shields.io/badge/💼_Linkedin-0D1117?style=flat-square" alt="Linkedin" />
+</a>
   <a href="https://wakatime.com/@joaquim_antonio">
     <img src="https://img.shields.io/badge/WakaTime-0D1117?style=flat-square&logo=wakatime" alt="WakaTime" />
   </a>
@@ -78,7 +78,8 @@ Sou estudante de Engenharia de Software na PUC Minas e desenvolvedor com interes
 
 <!-- ATIVIDADE -->
 📈 Minhas métricas
-<table>
+
+<table align="center">
   <tr>
     <td width="50%" align="center">
       <img
@@ -116,8 +117,7 @@ Sou estudante de Engenharia de Software na PUC Minas e desenvolvedor com interes
 
 
 <!-- LEITURAS -->
-📚 Minha estante
-Livros mais recentes, tanto técnicos quanto literários
+📚 Minha estante: livros mais recentes, tanto técnicos quanto literários
 <p align="center">
   <img src="img/engenharia-de-software-pressman.jpg" height="145" alt="Engenharia de Software — Pressman" />
   <img src="img/ensaio-sobre-a-cegueira.jpg" height="145" alt="BPM CBOK" />
