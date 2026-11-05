@@ -50,7 +50,7 @@ Sou estudante de Engenharia de Software na PUC Minas e desenvolvedor com interes
   <tr>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Front--end-2E3440?style=flat" alt="Front-end"/><br>
-      <img src="https://skillicons.dev/icons?i=react,js,ts&theme=dark" height="45" alt="React, TypeScript"/>
+      <img src="https://skillicons.dev/icons?i=react,ts&theme=dark" height="45" alt="React, TypeScript"/>
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Back--end-2E3440?style=flat" alt="Back-end"/><br>
