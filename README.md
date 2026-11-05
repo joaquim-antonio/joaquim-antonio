@@ -43,7 +43,7 @@ Sou estudante de Engenharia de Software na PUC Minas e desenvolvedor com interes
 
 
 <!-- TECNOLOGIAS -->
-## 🧩 Tecnologias e ferramentas
+🧩 Tecnologias e ferramentas
 
 <div align="center">
 <table align="center">
